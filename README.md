@@ -6,9 +6,6 @@
 
 ### 2. Streams and Serialization
 - Byte Stream, Character Stream, Object Serialization, Cloning
-
-### 3. Lambda Expressions and Functional Programming
-- Lambda Syntax, Functional Interfaces, Method References
   
 ## 📌 Experiment 5: Develop Java programs using autoboxing, serialization, file handling, and efficient data processing and management.
 
