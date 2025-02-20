@@ -2,7 +2,7 @@ Java program that serializes and deserializes a Student object. It saves the Stu
 The program handles exceptions like FileNotFoundException, IOException, and ClassNotFoundException.
 
 Steps:
-1. Create a Student class with id, name, and GPA.
+1. Create a Student class with id, name, and CGPA.
 2. Serialize the Student object: Convert the object to a byte stream and save it to a file.
 3. Deserialize the Student object: Read the byte stream from the file and convert it back into an object.
 4. Exception handling: Handle possible exceptions such as FileNotFoundException, IOException, and ClassNotFoundException.
